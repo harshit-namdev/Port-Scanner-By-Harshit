@@ -13,6 +13,8 @@ To use the tool, follow these steps:
 1. **Clone the Repository**:
     ```bash
     git clone https://github.com/harshit-namdev/Port-Scanner-By-Harshit.git
+    ```
+    ```bash
     cd Port-Scanner-By-Harshit
     ```
 
@@ -26,7 +28,7 @@ To use the tool, follow these steps:
 3. **Run the Tool**:
     Start scanning by providing the target IP addresses and number of ports:
     ```bash
-    python port_scanner.py
+    port-scanner-by-harshit.py
     ```
 
 4. **Example Usage**:
@@ -63,6 +65,7 @@ To use the tool, follow these steps:
 ## Installation Requirements 🛠️
 - Python 3.x
 - `termcolor` package for colored outputs:
+
 - 
     ```bash
     pip install termcolor
