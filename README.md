@@ -12,8 +12,8 @@ To use the tool, follow these steps:
 
 1. **Clone the Repository**:
     ```bash
-    git clone https://github.com/yourusername/colorful-port-scanner.git
-    cd colorful-port-scanner
+    git clone https://github.com/harshit-namdev/Port-Scanner-By-Harshit.git
+    cd Port-Scanner-By-Harshit
     ```
 
 2. **Install Dependencies**:
